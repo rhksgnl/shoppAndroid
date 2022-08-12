@@ -1,2 +1,33 @@
 <?xml version="1.0" encoding="utf-8"?>
-<resources></resources>
+<resources>
+
+    <style name="gucci" parent="TextAppearance.MaterialComponents.Subtitle1">
+        <item name="android:textColor">@color/shoppi_pink_01</item>
+        <item name="android:textSize">20sp</item>
+    </style>
+
+    <style name="title" parent="TextAppearance.MaterialComponents.Subtitle1">
+        <item name="android:textStyle">bold</item>
+        <item name="android:textColor">@color/shoppi_black_01</item>
+        <item name="android:textSize">20sp</item>
+    </style>
+
+
+    <style name="price" parent="TextAppearance.MaterialComponents.Subtitle1">
+
+        <item name="android:textColor">@color/shoppi_black_02</item>
+
+
+    </style>
+
+    <style name="sale" parent="TextAppearance.MaterialComponents.Subtitle1">
+        <item name="android:textColor">@color/shoppi_red</item>
+
+
+    </style>
+
+    <style name="a">
+
+    </style>
+
+</resources>
