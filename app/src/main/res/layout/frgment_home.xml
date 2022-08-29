@@ -9,7 +9,7 @@
         android:id="@+id/btn_homefragment"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="누르지마시오"
+        android:text="ㅂㅌ"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
